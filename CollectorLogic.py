@@ -1,3 +1,3 @@
-CollectReady = True
+CollectReady = " you have one reward ready to collect"
 if CollectReady:
-    print("Ready")
+    print(CollectReady)
